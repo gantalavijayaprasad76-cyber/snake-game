@@ -1,0 +1,6 @@
+{
+  "name": "CyberBeat Snake",
+  "description": "A dark neon music player and high-speed snake game hybrid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
